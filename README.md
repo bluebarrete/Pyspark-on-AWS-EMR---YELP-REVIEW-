@@ -10,3 +10,4 @@ In doing so, we are demonstrating the ability to configure and provision infrast
 Also, demonstrating the understanding of how to leverage transformations and actions (as per the Spark terminology) with PySpark in performing basic data analysis tasks on information sources that are too large to manage in memory.
 
 
+<img width="886" alt="Screenshot 2022-11-11 at 7 11 38 PM" src="https://user-images.githubusercontent.com/42550664/201446632-719f15fb-7433-435b-a657-b7cb1ad308f0.png">
