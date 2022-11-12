@@ -2,16 +2,11 @@
 
 ANALYSING 10 GB OF REVIEWS DATA FROM YELP
 
-Here, we have used PySpark on AWS EMR to analyze 10Gb of Yelp review dataset. 
+We provision a Spark cluster on AWS EMR, 
+connect it to a Jupyter Notebook and then run a series of queries (in python with DataFrame API or Spark SQL) that answer a few simple questions about the Yelp Data available.
 
-Yelp review data exists on Kaggle in a json format ,we have downloaded and  transfered to a public S3 bucket for our analysis https://s3.console.aws.amazon.com/s3/buckets/yelp-reviews-dataset?region=us-east-2&tab=objects  we have also analyzed the descriptive properties of the review data and analyzed whether reviews tend to be positive or negative and their impact on the restaurants ratings. communicated by creating insightful visuals.
+In doing so, we are demonstrating the ability to configure and provision infrastructure using the AWS Elastic Map Reduce ecosystem.
 
- source files used:
+Also, demonstrating the understanding of how to leverage transformations and actions (as per the Spark terminology) with PySpark in performing basic data analysis tasks on information sources that are too large to manage in memory.
 
-Business: https://yelp-reviews-dataset.s3.us-east-2.amazonaws.com/yelp_academic_dataset_business.json
 
-Review:https://yelp-reviews-dataset.s3.us-east-2.amazonaws.com/yelp_academic_dataset_review.json
-
-User:https://yelp-reviews-dataset.s3.us-east-2.amazonaws.com/yelp_academic_dataset_user.json
-
-## 
