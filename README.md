@@ -11,3 +11,7 @@ Also, demonstrating the understanding of how to leverage transformations and act
 
 
 <img width="886" alt="Screenshot 2022-11-11 at 7 11 38 PM" src="https://user-images.githubusercontent.com/42550664/201446632-719f15fb-7433-435b-a657-b7cb1ad308f0.png">
+
+
+
+<img width="1440" alt="notebook configuaration" src="https://user-images.githubusercontent.com/42550664/201446791-5594985d-595c-4551-8aa9-710cb6776f3f.png">
